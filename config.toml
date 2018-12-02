@@ -55,23 +55,23 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Collect data from construction sites, and combine with your other data sources."
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Optimization"
+    description = "Optimize your productivity by digital app and web platform, and our ML models."
     url = "#"
     button = "Click Me"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Analytics"
+    description = "Analyze the data and forecast with our smart algorithms."
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
