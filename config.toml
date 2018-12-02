@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "BosporusAI - Reinventing Construction!"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -44,7 +44,8 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "New Kind of ConstructionTech"
-    subtitle = 'Coming Soon!'
+    subtitle = '** Our AI in Construction Presentation <a href="https://drive.google.com/file/d/1ZWkK94IOe1Ma52hcUdg5FDc-wLzVGdUU/view?usp=sharing" target="_blank">click here</a>'
+
 
   # Intro section
   # Available icons: http://simplelineicons.com/
