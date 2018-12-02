@@ -44,7 +44,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "New Kind of ConstructionTech"
-    subtitle = '** Our AI in Construction Presentation <a href="https://drive.google.com/file/d/1ZWkK94IOe1Ma52hcUdg5FDc-wLzVGdUU/view?usp=sharing" target="_blank">click here</a>'
+    subtitle = 'For Our AI in Construction Presentation <a href="https://drive.google.com/file/d/1ZWkK94IOe1Ma52hcUdg5FDc-wLzVGdUU/view?usp=sharing" target="_blank">click here</a>'
 
 
   # Intro section
