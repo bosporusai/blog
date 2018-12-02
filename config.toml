@@ -43,8 +43,10 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
+    titleTemp = 'Coming Soon!'
     title = "New Kind of ConstructionTech"
     subtitle = 'For Our AI in Construction Presentation <a href="https://drive.google.com/file/d/1ZWkK94IOe1Ma52hcUdg5FDc-wLzVGdUU/view?usp=sharing" target="_blank">click here</a>'
+
 
 
   # Intro section
@@ -53,7 +55,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Get In Touch"
     icon = "icon-bulb"
@@ -61,7 +63,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Develop"
-    description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Click Me"
     icon = "icon-wrench"
@@ -69,7 +71,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Launch"
-    description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
     url = "#"
     button = "Why us?"
     icon = "icon-rocket"
@@ -160,7 +162,7 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "On Site Platform Solutions"
       description = "Better communication between engineer and other stuff will make "
-      icon = "icon-anchor"
+      icon = "icon-video2"
 
     [[params.services.item]]
       title = "Project Management Tools"
@@ -169,7 +171,7 @@ theme = "hugo-elate-theme"
     [[params.services.item]]
       title = "Process Optimization"
       description = "Better timeline estimations and on time delivered projects"
-      icon = "icon-video2"
+      icon = "icon-anchor"
 
       [[params.services.item]]
       title = "Analytics"
