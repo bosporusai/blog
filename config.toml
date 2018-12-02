@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "Elate"
+    brand = "BosphorusAI"
     home = "Home"
     work = "Work"
     testimonials = "Testimonials"
@@ -43,8 +43,8 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Do something you love."
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "New Kind of ConstructionTech"
+    subtitle = 'Coming Soon!'
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -180,12 +180,12 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "New Kind of ConstructionTe"
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Bahadir Ozdal"
+      position = "CoFounder"
+      description = "Engineering, Business, Project Management"
       img = "person1.jpg"
       alt = "Person1"
       social = [
@@ -194,29 +194,17 @@ theme = "hugo-elate-theme"
         ["icon-linkedin", "#"]
       ]
 
-    [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
-      ]
-
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]
+      [[params.about.item]]
+        name = "Cem Ozturk"
+        position = "CoFounder"
+        description = "AI, Finance"
+        img = "person1.jpg"
+        alt = "Person1"
+        social = [
+          ["icon-twitter", "#"],
+          ["icon-facebook", "#"],
+          ["icon-linkedin", "#"]
+        ]
 
   # Counters section
   [params.counters]
@@ -262,13 +250,12 @@ theme = "hugo-elate-theme"
     map = true
     form = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-
+    description = "New Kind of ConstructionTech"
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
+        ["icon-home", " <br> Toronto, Canada"],
+        ["icon-home", " <br> Sydney, Australia"],
+        ["icon-envelope", "aibosphorus@gmail.com"],
         ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
 
@@ -281,7 +268,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; BosphorusAI. All Rights Reserved.'
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
